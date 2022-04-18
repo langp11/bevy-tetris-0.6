@@ -4,7 +4,7 @@ It's Tetris, made with [Bevy](https://github.com/bevyengine/bevy)!
 
 Because clearly the world needs yet another Tetris clone.
 
-Starting from the  [Bevy 0.4 example](https://github.com/8bit-pudding/bevy-tetris) but substantially re-written to meet Bevy 0.6 requirements and with additional features.
+Starting from the  [Bevy 0.4 example](https://github.com/8bit-pudding/bevy-tetris) but substantially re-written to meet Bevy 0.6 requirements and with additional features. Later updated to work with bevy 0.7.
 
 More prosaically, when investigating Bevy 0.6 for a possible future project, there seemed to be a lack of examples the went beyond *here's a piece of code that works* to including the reasoning behind the code and the context in which it was required.
 
